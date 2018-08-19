@@ -7,7 +7,7 @@
   <body>
     <form class="" action="tp1ins6(1).php" method="post">
 
-      <label for="">Cantidad de inputs a crear: </label>
+      <label for="">Cantidad inputs a crear: </label>
       <input id="inputs" type="number" name="input" value="5">
       <input id="btnenviar" type="submit">
     </form>
