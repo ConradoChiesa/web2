@@ -16,6 +16,6 @@ function procesarInputs(evt) {
     function crearInput(i) {
       let input = '<input class="position'+ i +'" type="number" name="valor'+i+'" value="">';
       contenedor.innerHTML += input;
-      console.log("funca");
+
     }
 }
