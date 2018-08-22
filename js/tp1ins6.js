@@ -23,7 +23,7 @@ function procesarInputs(evt) {
     // sumas.innerHTML += script;
         // contenedor.innerHTML = forme;
     function crearInput(i) {
-      let input = '<input class="position'+ i +'" type="number" name="valor[]" value="">';
+      let input = '<input class="position'+ i +'" type="integer" name="valor[]" value="">';
       formulario.innerHTML += input;
     }
 }
